@@ -5,4 +5,4 @@
 [Python]
 ## 3. 실행 방법
 아래 코드를 입력하면 실행됩니다.
-[python csgit.py]
+[python hello.py]
